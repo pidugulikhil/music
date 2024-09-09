@@ -1,3 +1,3 @@
 chmod +x *
-unzip .main.zip
+unzip main.zip
 bash ActivityInstaller.sh
