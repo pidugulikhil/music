@@ -1,6 +1,6 @@
 This small project is mainly preffered to terminal users which are holding TERMUX in their mobiles. 📱
 
-The "Intro music" project is for making an termux user to play an best intro musics in the Termux startups. 🎶🎵
+The "Intro music" project is for making a termux user to play an best intro musics in the Termux startups. 🎶🎵
 
 After cloning the repository, You must execute the " bash setup.sh " in the music folder at HOME directory of the temux. 🏠
 
