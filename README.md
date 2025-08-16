@@ -1,4 +1,4 @@
-This small project is mainly preffered to terminal users which are holding TERMUX in their mobiles. 📱
+This small project is mainly preffered to terminal users which are using TERMUX in their mobiles. 📱
 
 The "Intro music" project is for making a termux user to play an best intro musics in the Termux startups. 🎶🎵
 
